@@ -1,2 +1,0 @@
-# Aprendendo
-Aprendendo git/github
