@@ -11,6 +11,7 @@ Comandos aprendidos:
 - git push
 - git reflog
 - git reset --hard
+- git clone
 
 *Branch
 
